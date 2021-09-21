@@ -1,5 +1,5 @@
 <h1 align="center">201-Journal</h1>
-Define the following
+**Define the following**
 <ol>
   <li>Repository: central location where data is stored and managed.</li>
   <li>Git: a software for tracking changes in set of files.</li>
