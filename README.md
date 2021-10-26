@@ -19,4 +19,7 @@
   <li>string literal: syntactic constructs that produce values</li>
   <li>number literal: constant values that can be assigned to variables </li>
   <li>function: a set of statements that perform a task and can calculate a value</li>
+ <li>logical operators: a symbol or word used to connect two or more expressions</li>
+ <li>arithmetic operators: performs math operations like addition, subtraction, multiplication, division, exponentiation, and modulus operations.</li>
+ <li></li>
 <ol>
